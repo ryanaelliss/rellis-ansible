@@ -1,0 +1,5 @@
+---
+
+ansible_port: 22 # ssh port
+ansible_user: ec2-user # aws linux ec2 username
+ansible_ssh_private_key_file: ./ansible_key.pem
